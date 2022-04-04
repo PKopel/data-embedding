@@ -7,5 +7,9 @@ sklearn
 pillow
 IPython
 tensorflow
+keras
 numba
-umap-learn
+umap-learn==0.5.2
+umap-learn[plot]
+datashader
+holoviews
