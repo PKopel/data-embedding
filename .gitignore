@@ -5,3 +5,6 @@ data/*
 venv
 images
 other
+!requirements.txt
+*.txt
+annoy_index_file
